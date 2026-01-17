@@ -1,8 +1,8 @@
 #Notas
 
-    Este es el repositorio inicial de mi proyecto
+Este es el repositorio inicial de mi proyecto
 
-    ##Desde VSCode
+##Desde VSCode
 ## 🧪 Pruebas: Convenciones de GitHub
 
 | Sticker | Tipo        | Descripción                      | Ejemplo de commit |

@@ -3,8 +3,7 @@
     Este es el repositorio inicial de mi proyecto
 
     ##Desde VSCode
-
-    ## 🧪 Pruebas: Convenciones de GitHub
+## 🧪 Pruebas: Convenciones de GitHub
 
 | Sticker | Tipo        | Descripción                      | Ejemplo de commit |
 |--------|-------------|----------------------------------|-------------------|
